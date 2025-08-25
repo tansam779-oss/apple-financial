@@ -33,7 +33,7 @@ Transform quarterly PDF filings into an analysis-ready model and executive-frien
 Enables quick comparisons between fiscal years and across product categories, supports finance reviews and investor-style analysis, and reduces manual effort by standardizing the refresh path for each new quarter.
 
 ## Screenshots / Demos
-![Dashboard preview](https://github.com/tansam779-oss/apple-financial/blob/main/cover.png)
+![Dashboard preview](https://github.com/tansam779-oss/apple-financial/blob/main/screenshot%20BI.png)
 
 ## Problem Statements
 Q1. What are the full-year totals for Revenue, Gross Profit, Net Income, Profit Margin%, Operating Expenses, and COGS in 2023 and 2024?  
